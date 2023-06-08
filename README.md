@@ -1,8 +1,8 @@
 # provider_kullanimi
 
-A new Flutter project.
-
-## Getting Started
+Kullanılan Paketler
+# provider:
+# flutter_slidable:
 
 pubspec.yaml dosyasında ilgili Kütüphaneleri ekliyoruz
 
