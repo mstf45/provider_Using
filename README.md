@@ -1,9 +1,5 @@
 # provider_kullanimi
 
-Kullanılan Paketler
-# provider:
-# flutter_slidable:
-
 We add relevant Libraries in pubspec.yaml file
 
 Packages Used
