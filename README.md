@@ -1,5 +1,8 @@
 # provider_kullanimi
 
 Kullanılan Paketler
-#provider
-#
+# provider:
+# flutter_slidable:
+
+Youtube Kanalım: https://www.youtube.com/watch?v=MVYxoF0rNxw
+
