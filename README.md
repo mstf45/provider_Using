@@ -4,13 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+pubspec.yaml dosyasında ilgili Kütüphaneleri ekliyoruz
 
-A few resources to get you started if this is your first Flutter project:
+Kullanılan Paketler
+# provider:
+# flutter_slidable:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+After adding them, we click on Pug get
+Watch the video for detailed information.
+Youtube Kanalım: https://www.youtube.com/watch?v=MVYxoF0rNxw
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
