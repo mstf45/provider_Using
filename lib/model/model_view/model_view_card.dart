@@ -11,9 +11,9 @@ class CardWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final cardListModel = Provider.of<CardListModel>(context);
-    var genislik=MediaQuery.of(context).size.width;
+    var genislik = MediaQuery.of(context).size.width;
     return Slidable(
-      key:  UniqueKey(),
+      key: UniqueKey(),
       endActionPane: ActionPane(
         extentRatio: 0.25,
         motion: const BehindMotion(),
@@ -21,9 +21,7 @@ class CardWidget extends StatelessWidget {
           Row(
             crossAxisAlignment: CrossAxisAlignment.end,
             children: [
-              SizedBox(
-                width: genislik/10,
-              ),
+              SizedBox(width: genislik / 10),
               IconButton(
                 onPressed: () {
                   cardListModel.removeCard();
